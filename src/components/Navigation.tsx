@@ -17,7 +17,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import Toolbar from '@mui/material/Toolbar';
 
 const drawerWidth = 240;
-const navItems = [['Datasets', 'projects'], ['Examples', 'examples'], ['Leaderboard', 'leaderboard']];
+const navItems = [['Classification', 'classification'], ['Regression', 'regression'], ['Examples', 'examples'], ['Leaderboard', 'leaderboard']];
 
 function Navigation({parentToChild, modeChange}: any) {
 
