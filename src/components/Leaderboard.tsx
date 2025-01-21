@@ -56,7 +56,7 @@ const Leaderboard: React.FC<LeaderboardProps> = ({ mode }) => {
         <Typography variant="h1" sx={{ fontSize: '2.25rem', fontWeight: 'bold' }}>Leaderboard</Typography>&nbsp;
         <Box sx={{ display: 'flex', justifyContent: 'space-between' }}>
           <TableContainer component={Paper} sx={{ flex: 1 }}>
-            <Table sx={{ minWidth: 650 }} aria-label="simple table">
+            <Table sx={{ minWidth: 650 }} aria-label="simple table" id='leaderboard'>
               <TableHead>
                 <TableRow>
                   <TableCell><b>Rank</b></TableCell>
