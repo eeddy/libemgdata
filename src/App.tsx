@@ -6,7 +6,7 @@ import {
   Navigation,
   Footer,
   Example,
-//   Leaderboard,
+  Leaderboard,
 } from "./components";
 import FadeIn from './components/FadeIn';
 import './index.scss';
@@ -33,8 +33,9 @@ function App() {
             <Main/>
             <ClassificationDatasets/>
             <RegressionDatasets/>
-            <Example language="python"/> 
-            {/* <Leaderboard /> */}
+            <Example language="python"/>
+            <br/> 
+            <Leaderboard mode={mode} />
         </FadeIn>
         <Footer />
     </div>

@@ -11,7 +11,7 @@ function RegressionDatasets() {
         <h1>Regression Datasets</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://github.com/LibEMG/3DCDataset" target="_blank" rel="noreferrer"><h2>DS16: Joint Angle/Cross-User (EMG2POSE)</h2></a>
+                <a href="https://github.com/LibEMG/3DCDataset" target="_blank" rel="noreferrer"><h2>DS16: Cross-User (EMG2POSE)</h2></a>
                 <p>Short Description.</p>
                 <a href="https://github.com/LibEMG/3DCDataset" target="_blank" rel="noreferrer"><img src={emg2pose} className="zoom" alt="thumbnail" width="100%"/></a>
             </div>
