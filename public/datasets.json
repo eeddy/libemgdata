@@ -1,87 +1,87 @@
 
 {
     "DS1": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS2": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS3": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS4": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS5": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS6": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS7": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS8": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS9": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS10": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS11": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS12": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS13": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS14": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS15": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS16": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS17": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS18": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS19": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS20": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ],
     "DS21": [
-      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://www.test.com", "paper": "https://www.test.com"},
-      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://www.test.com", "paper": "https://www.test.com" }
+      { "rank": 1, "name": "UNB", "model": "MLP", "accuracy": 90, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com"},
+      { "rank": 2, "name": "UNB", "model": "LDA", "accuracy": 89, "code": "https://github.com/LibEMG/DatasetEvaluationCode", "paper": "https://www.test.com" }
     ]
 }
