@@ -112,6 +112,15 @@
       "performance": {
           "DS16": 0.264927724742446
       }
+    },
+    {
+      "name": "New",
+      "model": "Novel Model",
+      "code": "<github link>",
+      "paper": "<paper link>",
+      "performance": {
+          "DS17": 0.00001
+      }
     }
   ]
 }
