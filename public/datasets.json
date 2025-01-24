@@ -2,7 +2,7 @@
   "results": [
     {
       "name": "UNB",
-      "model": "LDA",
+      "model": "LDA (HTD)",
       "code": "https://github.com/LibEMG/DatasetEvaluationCode",
       "paper": "TBD",
       "performance": {
@@ -23,7 +23,7 @@
     },
     {
       "name": "UNB",
-      "model": "MLP",
+      "model": "MLP (HTD)",
       "code": "https://github.com/LibEMG/DatasetEvaluationCode",
       "paper": "TBD",
       "performance": {
@@ -44,7 +44,7 @@
     },
     {
       "name": "UNB",
-      "model": "Linear Regressor",
+      "model": "Linear Regressor (HTD)",
       "code": "https://github.com/LibEMG/DatasetEvaluationCode",
       "paper": "TBD",
       "performance": {
@@ -57,7 +57,7 @@
     },
     {
       "name": "UNB",
-      "model": "MLP",
+      "model": "MLP (HTD)",
       "code": "https://github.com/LibEMG/DatasetEvaluationCode",
       "paper": "TBD",
       "performance": {
@@ -70,7 +70,7 @@
     },
     {
       "name": "UNB",
-      "model": "LDA",
+      "model": "LDA (HTD)",
       "code": "https://github.com/LibEMG/DatasetEvaluationCode",
       "paper": "TBD",
       "performance": {
@@ -79,7 +79,7 @@
     },
     {
       "name": "UNB",
-      "model": "MLP",
+      "model": "MLP (HTD)",
       "code": "https://github.com/LibEMG/DatasetEvaluationCode",
       "paper": "TBD",
       "performance": {
@@ -88,7 +88,7 @@
     },
     {
       "name": "UNB",
-      "model": "Auto Encoder",
+      "model": "Auto Encoder (HTD)",
       "code": "https://github.com/LibEMG/DatasetEvaluationCode",
       "paper": "TBD",
       "performance": {
@@ -97,7 +97,7 @@
     },
     {
       "name": "UNB",
-      "model": "MLP",
+      "model": "MLP (HTD)",
       "code": "https://github.com/LibEMG/DatasetEvaluationCode",
       "paper": "TBD",
       "performance": {
@@ -105,8 +105,8 @@
       }
     },
     {
-      "name": "Linear Regressor",
-      "model": "Linear Regressor",
+      "name": "UNB",
+      "model": "Linear Regressor (HTD)",
       "code": "https://github.com/LibEMG/DatasetEvaluationCode",
       "paper": "TBD",
       "performance": {
