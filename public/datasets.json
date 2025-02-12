@@ -99,7 +99,7 @@
       "code": "https://github.com/LibEMG/DatasetEvaluationCode",
       "paper": "TBD",
       "performance": {
-          "DS16-CU": 0.26282683
+          "DS16-CU": 0.2649277247424457
       }
     },
     {
@@ -108,7 +108,16 @@
       "code": "https://github.com/LibEMG/DatasetEvaluationCode",
       "paper": "TBD",
       "performance": {
-          "DS16-CU": 0.26842514
+          "DS16-CU": 0.2656911
+      }
+    },
+    {
+      "name": "UNB",
+      "model": "AE (HTD)",
+      "code": "https://github.com/LibEMG/DatasetEvaluationCode",
+      "paper": "TBD",
+      "performance": {
+          "DS15": 82.49821249437832
       }
     }
   ]
